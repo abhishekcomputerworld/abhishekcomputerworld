@@ -60,12 +60,12 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
       
 ## **GitHub Stats** 
 <p align="center">
-<a href="https://github.com/abhishekcomputerworld" title="Redirect's to Twinshu's Github">
+<a href="https://github.com/abhishekcomputerworld" title="Redirect's to Abhishek's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekcomputerworld&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 
 <a href="https://github.com/abhishekcomputerworld">
-<img width="49%" title="Redirect's to Twinshu's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcomputerworld&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to Abhishek's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcomputerworld&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
