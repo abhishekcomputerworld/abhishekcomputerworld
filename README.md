@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE%20VIEWS&color=red&style=flat" alt="Profile Views"/>
 
- <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE VIEWS  &color=red&style=flat" alt="abhishek pandey"/>
+<img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE%20VIEWS&color=red&style=flat" alt="abhishek pandey"/>
 
 
 
