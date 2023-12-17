@@ -37,6 +37,41 @@
 
 Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedicated Software Engineer 🖥️ | Problem-Solver Extraordinaire 💡 | Crafting Effective Solutions for Real-World Challenges! 🌟.
 
+
+
+## **Experience**
+
+### Software Engineer at Redcliffe Labs (Oct 2022 - Oct 2023)
+
+- Revamped Mobile App: Orchestrated a significant overhaul of the mobile application, introducing modern design principles and augmenting functionality.
+- Optimization Achievements: Achieved a 30% reduction in app size by leveraging Kotlin, Coroutine, Hilt, and Dagger expertise.
+- Integration Leadership: Spearheaded seamless integration of MapMyIndia and MoEngage services, enhancing user interaction and retention rates.
+- Enhanced Cart System: Managed and optimized the app's cart system, resulting in a 25% increase in successful transactions and elevated user satisfaction.
+- Premium Membership Integration: Implemented premium membership integration, enriching the overall user experience.
+
+### Previous Experience
+
+- Developed and launched 15+ Android applications across various genres on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
+- SEO Tool for YouTube: Assisted content creators in optimizing their videos by providing trending keyword suggestions and effective metadata strategies.
+- Text Extraction App: Designed to effortlessly extract text from images and applications, simplifying data extraction processes.
+- Video & App Locker: Engineered a robust encryption system ensuring the secure hiding of personal videos and applications.
+- Feature-rich Video Player: Developed a versatile video player supporting multiple formats with advanced controls for an enhanced viewing experience.
+- QR Code Scanner/Generator: Crafted an application offering diverse QR code functionalities for seamless sharing and retrieval.
+- Instagram Video Saver: Created a tool allowing users to save Instagram videos for offline viewing, enhancing accessibility.
+- Video Downloader: Developed an application enabling seamless video downloads from various websites.
+- My Result (Educational App): Designed a platform for managing and accessing academic results, simplifying the educational process.
+- Status Saver: Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management.
+
+
+### Achievements
+
+- Published apps on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
+- Contributed to freelance projects, expanding outreach and enhancing functionalities.
+- - Utilized a tech stack comprising Android Studio, Java, Kotlin, integrated billing systems, Firebase, and Crashlytics, ensuring optimized app performance.
+- Demonstrated expertise in app development, optimization, user privacy, and robust security measures.
+- Proficiently managed substantial user bases across diverse platforms, ensuring consistent engagement and downloads.
+
+
 ## **Languages and Tools**
 
 <p>
