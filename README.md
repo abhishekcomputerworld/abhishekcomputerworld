@@ -31,7 +31,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 - **Premium Membership Integration:** Implemented premium membership integration, enriching the overall user experience.
 
 ### Skills (Redcliffe Labs)
-
+<p>
 ![Android SDK](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg)
 ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)
@@ -46,7 +46,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg)
 ![Postman API](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg)
 ![Android Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-studio.svg)
-
+</p>
 ### Previous Experience
 
 - Developed and launched 15+ Android applications across various genres on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
@@ -69,7 +69,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 - Proficiently managed substantial user bases across diverse platforms, ensuring consistent engagement and downloads.
 
 ## Languages and Tools
-
+<p>
 ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)
 ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
@@ -82,7 +82,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)
 ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
 ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg)
-
+</p>
 ## GitHub Stats
 
 <p align="center">
