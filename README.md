@@ -41,7 +41,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 
 ## **Experience**
 
-### Software Engineer at REDCLIFFE LIFETECH PRIVATE LIMITED (Oct 2022 - Oct 2023)
+### Software Engineer at Redcliffe LifeTech Private Limited (Oct 2022 - Oct 2023)
 
 - **Revamped Mobile App:** Orchestrated a significant overhaul of the mobile application, introducing modern design principles and augmenting functionality.
 - **Optimization Achievements:** Achieved a 30% reduction in app size by leveraging Kotlin, Coroutine, Hilt, and Dagger expertise.
