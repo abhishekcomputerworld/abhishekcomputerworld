@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working as Associate Technologist @Kratin.
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me Anything about **Android Development**
 
 
 
