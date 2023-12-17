@@ -1,15 +1,13 @@
 # Hi 👋, I'm <a href="https://github.com/abhishekcomputerworld" target="blank">Abhishek Pandey</a>
 <h3>A Passionate Software Engineer from India &#127470;&#127475</h3>
- <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE VIEWS  &color=red&style=flat" alt="abhishek pandey"/>
-//<a target="_blank" align="center">
+ <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE VIEWS  &color=red&style=flat" alt="Profile Views"/>
+<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-//</a> 
+</a> 
 
-// # Hi there, I'm [Abhishek Pandey](https://github.com/abhishekcomputerworld) 👋
+<img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE%20VIEWS&color=red&style=flat" alt="Profile Views"/>
 
-
-<img align="right" width="400" height="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
+ <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE VIEWS  &color=red&style=flat" alt="abhishek pandey"/>
 
 
 
