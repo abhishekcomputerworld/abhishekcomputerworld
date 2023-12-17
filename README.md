@@ -68,7 +68,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-studio.svg" width="40px" height="40px" alt="Android Studio" title="Android Studio"/>
 </p>
 
-### Previous Experience
+## **Previous Experience**
 
 - Developed and launched 15+ Android applications across various genres on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
 - SEO Tool for YouTube: Assisted content creators in optimizing their videos by providing trending keyword suggestions and effective metadata strategies.
@@ -81,8 +81,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 - My Result (Educational App): Designed a platform for managing and accessing academic results, simplifying the educational process.
 - Status Saver: Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management.
 
-
-### Achievements
+## **Achievements**
 
 - Published apps on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
 - Contributed to freelance projects, expanding outreach and enhancing functionalities.
