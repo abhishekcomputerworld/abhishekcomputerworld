@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://play.google.com/store/apps/developer?id=andotools">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=playstore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 <a href="abhishekpandey817827@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
