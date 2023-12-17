@@ -8,8 +8,7 @@
 
 
 
-- 🌱 I’m currently Working
-- as Associate Technologist @Kratin.
+- 🌱 I’m currently Working as Associate Technologist @Kratin.
 
 - 💬 Ask me about **Android Development**
 
@@ -28,6 +27,13 @@
 <a href="abhishekpandey817827@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+
+- [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-profile)
+- [Leetcode](https://leetcode.com/abhishekPandey_/)
+- [Google Play Store](https://play.google.com/store/apps/developer?id=andotools)
+- [Email](mailto:abhishekpandey817827@gmail.com)
+- [RSEM](Your_RSEM_Link_Here)
 
 ## **About me** :
 
