@@ -70,16 +70,19 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 
 ## **Previous Experience**
 
-- Developed and launched 15+ Android applications across various genres on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.
-- SEO Tool for YouTube: Assisted content creators in optimizing their videos by providing trending keyword suggestions and effective metadata strategies.
-- Text Extraction App: Designed to effortlessly extract text from images and applications, simplifying data extraction processes.
-- Video & App Locker: Engineered a robust encryption system ensuring the secure hiding of personal videos and applications.
-- Feature-rich Video Player: Developed a versatile video player supporting multiple formats with advanced controls for an enhanced viewing experience.
-- QR Code Scanner/Generator: Crafted an application offering diverse QR code functionalities for seamless sharing and retrieval.
-- Instagram Video Saver: Created a tool allowing users to save Instagram videos for offline viewing, enhancing accessibility.
-- Video Downloader: Developed an application enabling seamless video downloads from various websites.
-- My Result (Educational App): Designed a platform for managing and accessing academic results, simplifying the educational process.
-- Status Saver: Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management.
+## **Previous Experience**
+
+- **Developed and launched 15+ Android applications across various genres on Google Play Store, Xiaomi, and Samsung with 1 lakh+ downloads and 40,000+ active users.**
+- **SEO Tool for YouTube:** Assisted content creators in optimizing their videos by providing trending keyword suggestions and effective metadata strategies.
+- **Text Extraction App:** Designed to effortlessly extract text from images and applications, simplifying data extraction processes.
+- **Video & App Locker:** Engineered a robust encryption system ensuring the secure hiding of personal videos and applications.
+- **Feature-rich Video Player:** Developed a versatile video player supporting multiple formats with advanced controls for an enhanced viewing experience.
+- **QR Code Scanner/Generator:** Crafted an application offering diverse QR code functionalities for seamless sharing and retrieval.
+- **Instagram Video Saver:** Created a tool allowing users to save Instagram videos for offline viewing, enhancing accessibility.
+- **Video Downloader:** Developed an application enabling seamless video downloads from various websites.
+- **My Result (Educational App):** Designed a platform for managing and accessing academic results, simplifying the educational process.
+- **Status Saver:** Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management.
+
 
 ## **Achievements**
 
