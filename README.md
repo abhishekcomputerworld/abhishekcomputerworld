@@ -74,12 +74,12 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 - **SEO Tool for YouTube:** Assisted content creators in optimizing their videos by providing trending keyword suggestions and effective metadata strategies. [View App Here](https://play.google.com/store/apps/details?id=com.tagtool.tubebuddypro)
 - **Text Extraction App:** Designed to effortlessly extract text from images and applications, simplifying data extraction processes. [View App Here](https://play.google.com/store/apps/details?id=copy.text.clipboard.professionalcopy)
 - **Video & App Locker:** Engineered a robust encryption system ensuring the secure hiding of personal videos and applications. [View App Here](https://play.google.com/store/apps/details?id=vault.videolocker.galleryvault)
-- **Feature-rich Video Player:** Developed a versatile video player supporting multiple formats with advanced controls for an enhanced viewing experience. [View App Here](link_to_your_app)
+- **Feature-rich Video Player:** Developed a versatile video player supporting multiple formats with advanced controls for an enhanced viewing experience. [View App Here](https://play.google.com/store/apps/details?id=hdvideoplayer.videoplayer.xdplayer)
 - **QR Code Scanner/Generator:** Crafted an application offering diverse QR code functionalities for seamless sharing and retrieval. [View App Here](https://play.google.com/store/apps/details?id=quickresponse.scanner.barcodereader.barcodescanner)
 - **Instagram Video Saver:** Created a tool allowing users to save Instagram videos for offline viewing, enhancing accessibility. [View App Here](https://play.google.com/store/apps/details?id=instagram.video.downloader.insta.photo.story.saver.igdownloader.repost)
-- **Video Downloader:** Developed an application enabling seamless video downloads from various websites. [View App Here](link_to_your_app)
-- **My Result (Educational App):** Designed a platform for managing and accessing academic results, simplifying the educational process. [View App Here](link_to_your_app)
-- **Status Saver:** Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management. [View App Here](link_to_your_app)
+- **Video Downloader:** Developed an application enabling seamless video downloads from various websites. [View App Here]([link_to_your_app](https://play.google.com/store/apps/details?id=reels.instasaver.storysaver.videodownloader.photodownloader))
+- **My Result (Educational App):** Designed a platform for managing and accessing academic results, simplifying the educational process. [View App Here](https://play.google.com/store/apps/details?id=checkresult.board.exams.myresult)
+- **Status Saver:** Engineered an application for saving and organizing statuses from various social media platforms, facilitating content management. [View App Here](https://play.google.com/store/apps/developer?id=andotools)
 
 
 
