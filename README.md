@@ -49,7 +49,7 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 - **Enhanced Cart System:** Managed and optimized the app's cart system, resulting in a 25% increase in successful transactions and elevated user satisfaction.
 - **Premium Membership Integration:** Implemented premium membership integration, enriching the overall user experience.
 
-- ### Skills (Redcliffe Labs)
+## Skills (Redcliffe Labs)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" height="40px" alt="Android SDK" title="Android SDK"/>
@@ -67,7 +67,6 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="40px" height="40px" alt="Postman API" title="Postman API"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-studio.svg" width="40px" height="40px" alt="Android Studio" title="Android Studio"/>
 </p>
-
 
 ### Previous Experience
 
