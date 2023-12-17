@@ -1,67 +1,73 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18231
-Fork on GitHub
-5392
+# Hi 👋, I'm <a href="https://github.com/abhishekcomputerworld" target="blank">Abhishek Pandey</a>
+<h3>A Passionate Software Engineer from India &#127470;&#127475</h3>
+ <img src="https://komarev.com/ghpvc/?username=abhishekcomputerworld&label=PROFILE VIEWS  &color=red&style=flat" alt="abhishek pandey"/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a> 
 
-back to edit
+- 🌱 I’m currently Working as Associate Technologist @Kratin.
 
-copy-markdown
+- 💬 Ask me about **Android Development**
 
-download markdown
 
-download backup
 
-preview
-<h1 align="center">Hi 👋, I'm Abhishek pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-pandey-profile&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-pandey-profile" /> </p>
+<a href="https://www.linkedin.com/in/abhishek-pandey-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+ <a href="https://leetcode.com/abhishekPandey_/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://play.google.com/store/apps/developer?id=andotools">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=playstore&logoColor=white"/>
+</a>
+<a href="abhishekpandey817827@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-pandey-profile" alt="abhishek-pandey-profile" /></a> </p>
+## **About me** :
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=andotools](https://play.google.com/store/apps/developer?id=andotools)
+Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedicated Software Engineer 🖥️ | Problem-Solver Extraordinaire 💡 | Crafting Effective Solutions for Real-World Challenges! 🌟.
 
-- 💬 Ask me about **Java , Kotlin, Android Development**
-
-- 📫 How to reach me **abhishekpandey817827@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14gi3xwPKnDihQARFZmQ5Ns9oNYZC3FX7/view?usp=sharing](https://drive.google.com/file/d/14gi3xwPKnDihQARFZmQ5Ns9oNYZC3FX7/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-pandey-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandey-profile" height="30" width="40" /></a>
+## **Languages and Tools**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="40px" height="40px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmsvg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmsvg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindtailwindcss-original-wordmark.svg"   width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"   width="40px" height="40px" />
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"  width="40px" height="40px" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg"   width="40px" height="40px"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-pandey-profile&show_icons=true&locale=en&layout=compact" alt="abhishek-pandey-profile" /></p>
+      
+## **GitHub Stats** 
+<p align="center">
+<a href="https://github.com/abhishekcomputerworld" title="Redirect's to Twinshu's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekcomputerworld&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-pandey-profile&" alt="abhishek-pandey-profile" /></p>
+<a href="https://github.com/abhishekcomputerworld">
+<img width="49%" title="Redirect's to Twinshu's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcomputerworld&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
+
+
+
