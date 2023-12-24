@@ -52,20 +52,15 @@ Tech Enthusiast 🚀 | Committed to Continuous Learning and Growth 📚 | Dedica
 ## Skills (Redcliffe Labs)
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" height="40px" alt="Android SDK" title="Android SDK"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" height="40px" alt="Kotlin" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" height="40px" alt="Kotlin Coroutines" title="Kotlin Coroutines"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" height="40px" alt="Android Jetpack" title="Android Jetpack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px" alt="Reactive Programming" title="Reactive Programming"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/model-view-viewmodel/model-view-viewmodel.svg" width="40px" height="40px" alt="MVVM" title="Model-view-viewmodel (MVVM)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjava/rxjava-original-wordmark.svg" width="40px" height="40px" alt="RxJava" title="RxJava"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/okta/okta-original-wordmark.svg" width="40px" height="40px" alt="OkHttp" title="OkHttp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40px" height="40px" alt="Gitlab" title="Gitlab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40px" height="40px" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="40px" height="40px" alt="Postman API" title="Postman API"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-studio.svg" width="40px" height="40px" alt="Android Studio" title="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40px" height="40px" />
 </p>
 
 ## **Previous Experience**
